@@ -27,7 +27,7 @@ This Python script performs network scanning using the Scapy library. It include
 ## Usage
 1. **Run the script:**
     ```sh
-    python network_scanner.py
+    python portScan.py
     ```
 
 2. **Enter the host:**
@@ -44,7 +44,8 @@ This Python script performs network scanning using the Scapy library. It include
 Enter the host to scan: 192.168.1.1
 Enter the scan type (syn/dns): syn
 Starting SYN scan on 192.168.1.1
-Open ports on 192.168.1.1: [80, 443]```
+Open ports on 192.168.1.1: [80, 443]
+```
 
 ## Contact
 ```sh
